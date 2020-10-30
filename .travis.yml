@@ -10,6 +10,7 @@ cache:
     - ~/.npm
     - ~/.cache
 
+# Not sure if I need this
 defaults: &defaults
 
 script:

@@ -10,8 +10,6 @@ cache:
     - ~/.npm
     - ~/.cache
 
-defaults: &defaults
-
 script:
   - npm run start:ci &
   - npm run test:unit
